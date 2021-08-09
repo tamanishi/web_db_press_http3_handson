@@ -5,7 +5,7 @@
 - ホスト
 
 ``` shell
-docker build
+docker build -t http3-handson-curl .
 docker run --rm --it {CONTAINER ID} /bin/bash
 ```
 
